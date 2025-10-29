@@ -1,0 +1,15 @@
+Bootstrap Analysis Summary
+============================
+
+Original Data:
+  - Sample size: 100
+  - Mean: 48.9615
+  - Standard deviation: 9.0362
+
+Bootstrap Results (1000 iterations):
+  - Mean of bootstrap means: 48.9768
+  - Standard error: 0.8811
+  - 95% Confidence Interval: [47.2766, 50.6285]
+
+Conclusion:
+The bootstrap method provides a robust estimate of the population mean with confidence intervals.
