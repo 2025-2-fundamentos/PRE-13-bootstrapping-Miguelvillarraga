@@ -1,0 +1,8 @@
+metric,value
+original_mean,48.96153482605907
+original_std,9.036161766446297
+bootstrap_mean_avg,48.97683601515181
+bootstrap_mean_std,0.8811254321948779
+bootstrap_std_avg,8.962756405536002
+ci_lower,47.276635751407504
+ci_upper,50.62851486440195
